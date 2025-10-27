@@ -7,7 +7,6 @@ Hello! I'm a dedicated junior full-stack developer specializing in back-end tech
 <p>
   <img src="https://img.icons8.com/color/60/000000/net-framework.png" alt=".NET Core" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" alt="C#" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/java-coffee-cup-logo.png" alt="Java" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/60/000000/sql.png" alt="SQL"/>
   <img src="https://img.icons8.com/color/60/000000/html-5.png" alt="HTML" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS" style="margin-right: 10px;"/>
